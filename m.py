@@ -4,7 +4,7 @@ import datetime
 import os
 # TRUSTVIPMOD JOIN TO MORE UPDATES 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7487481982:AAGDUQYgj10beSYIgmKnX82zw3hmg4wdWn4')
+bot = telebot.TeleBot('7487481982:AAFAiYhGp6cI_LB3D7p_Vssv7fjh3IurdXc')
 # DEVELOPER --> @TRUSTVIPMOD
 # Admin user IDs
 admin_id = ["7374612242"]
